@@ -56,7 +56,7 @@
                     </form>
                 </div>
                 <div class="card-footer text-center">
-                    <small><a href="{{ route('password.request ') }}" class="text-decoration-none">Forgot Password</a></small>
+                    <small><a href="{{ route('password.request') }}" class="text-decoration-none">Forgot Password</a></small>
                 </div>
             </div>
         </div>
